@@ -1,0 +1,4 @@
+github.com/fernandoporazzi/parse-ms v0.0.0-20200525204056-971943f6bb96 h1:oewsPeIXaAWE+Cmqwwzw1AkIwGrHjqnN4i5ww+igqLA=
+github.com/fernandoporazzi/parse-ms v0.0.0-20200525204056-971943f6bb96/go.mod h1:7JM/dnTEYSYJOaZR4jq71FfQa8yoKxJw1kJbq/uSOBQ=
+github.com/fernandoporazzi/pretty-milliseconds v0.0.0-20200525202845-c3d24cc8b628 h1:1bH7XQw7ci/8EA5SIJlqQecRLVqAALucoFiWzbJZtZk=
+github.com/fernandoporazzi/pretty-milliseconds v0.0.0-20200525202845-c3d24cc8b628/go.mod h1:+EiESe5lpkSdR9u4JCmxhl0ZxjzdxdKPRaovvtpk8H4=
