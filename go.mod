@@ -1,16 +1,14 @@
 
-/**
- * Copyright (c) 2023 rhierlmeier
- *
- * See the NOTICE file(s) distributed with this work for additional
- * information.
- *
- * This program and the accompanying materials are made available under the
- * terms of the Apache Public License 2.0 which is available at
- *  http://www.apache.org/licenses/
- *
- * SPDX-License-Identifier: APSL-2.0
- */
+// Copyright (c) 2023 rhierlmeier
+//
+// See the NOTICE file(s) distributed with this work for additional
+// information.
+//
+// This program and the accompanying materials are made available under the
+// terms of the Apache Public License 2.0 which is available at
+//  http://www.apache.org/licenses/
+//
+// SPDX-License-Identifier: APSL-2.0
 module hierlmeier/humantime
 
 go 1.20
